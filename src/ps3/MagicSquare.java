@@ -4,7 +4,6 @@ package ps3;
  *
  * Computer Science E-22
  *
- * Modified by: <Monica Suresh>, <monicasuresh45@gmail.com>
  */
 
 import java.util.*;
