@@ -4,9 +4,6 @@ package ps3;
  *
  * Computer Science E-22
  *
- * modified by:
- *   name: Monica Suresh
- *   email: monicasuresh45@gmail.com
  */
 
 /*
